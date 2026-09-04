@@ -22,7 +22,7 @@ This repo documents my hands-on progress through **[PortSwigger Web Security Aca
 
 Every lab here was solved manually using **Burp Suite**, browser dev tools, and an HTTP proxy — no walkthroughs copy-pasted, no shortcuts. The goal is to build the same instincts a professional penetration tester relies on: read the app, form a hypothesis, test it, break it.
 
-This journey feeds directly into my [portfolio](https://awel-abduljelil.github.io/My-Portfolio/) and CTF work — think of this repo as the lab notebook behind the "Penetration Tester" title on that site.
+This journey feeds directly into my [portfolio](https://awel-aduljelil.github.io/My-Portfolio/) and CTF work — think of this repo as the lab notebook behind the "Penetration Tester" title on that site.
 
 ---
 
